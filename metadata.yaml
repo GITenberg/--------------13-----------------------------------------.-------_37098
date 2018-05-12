@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46
     wikipedia: http://en.wikipedia.org/wiki/Karl_Marx
 description: 'Translation of: Das Kapital'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37098#--------------13-----------------------------------------.-------
 gutenberg_issued: '2011-08-15'
 gutenberg_type: Text
 identifiers:
