@@ -1,0 +1,38 @@
+_repo: '--------------13-----------------------------------------.-------_37098'
+_version: 0.1.0
+alternative_title: Das Kapital. Greek
+contributor:
+  commentator:
+    agent_name: Pareto, Vilfredo
+    birthdate: 1848
+    deathdate: 1923
+    gutenberg_agent_id: '38645'
+    url: http://www.gutenberg.org/2009/agents/38645
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marx, Karl
+    alias: Marx, Heinrich Karl
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '46'
+    url: http://www.gutenberg.org/2009/agents/46
+    wikipedia: http://en.wikipedia.org/wiki/Karl_Marx
+description: 'Translation of: Das Kapital'
+gutenberg_issued: '2011-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37098'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Socialism'
+- !lcc 'HB'
+- !lcsh 'Economics'
+- !lcsh 'Capital'
+title: "Το κεφάλαιον\r\nΠερίληψις Παύλου Λαφάργκ, μετά προλόγου Β. Παρέτο"
+url: http://www.gutenberg.org/ebooks/37098
